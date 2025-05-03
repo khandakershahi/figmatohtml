@@ -558,8 +558,11 @@ color: #1E0E62;
   /* footer section  */
   .footer_menu{
     justify-content: center!important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
-
+ 
   
   
 }
